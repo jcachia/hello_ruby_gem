@@ -7,7 +7,7 @@ module HelloRubyGem
 
   class Hello
     def say_it(name="Beautiful")
-      return "Hello there, #{name}"
+      return "Hello there, #{name}!"
     end
   end
 
