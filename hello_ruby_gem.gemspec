@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Hello Ruby Gem - for testing."
   spec.description = "This is just a test gem."
-  spec.homepage = "https://github.com/jcachia/hello_ruby_gem"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.homepage = "https://github.com/care-dot-com/sandbox-hello_ruby_gem"
+  spec.required_ruby_version = ">= 2.7.0"
 
   # spec.metadata["allowed_push_host"] = "TODO: After we figure out where to host."
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/jcachia/hello_ruby_gem"
-  spec.metadata["changelog_uri"] = "https://github.com/jcachia/hello_ruby_gem/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/care-dot-com/sandbox-hello_ruby_gem"
+  spec.metadata["changelog_uri"] = "https://github.com/care-dot-com/sandbox-hello_ruby_gem/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

@@ -1,6 +1,6 @@
 # HelloRubyGem
 
-Welcome to the hello_ruby_gem! It's my dream that this becomes a template for homegrown Ruby gems. In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hello_ruby_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to the hello_ruby_gem! This is a template for homegrown Ruby gems. In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hello_ruby_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
