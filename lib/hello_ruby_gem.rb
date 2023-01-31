@@ -6,7 +6,7 @@ module HelloRubyGem
   class Error < StandardError; end
 
   class Hello
-    def say_it(name="Beautiful")
+    def self.say_it(name="Beautiful")
       return "Hello there, #{name}!"
     end
   end
